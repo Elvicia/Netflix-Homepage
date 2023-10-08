@@ -8,6 +8,7 @@ Responsive design for various screen sizes (desktop, tablet, mobile).
 Language dropdown for switching between languages.
 
 Technologies Used:
+
 HTML: Structured the content and layout of the webpage.
 CSS: Styled the webpage to closely resemble Netflix's design.
 JavaScript: Added interactivity to the page, including FAQ toggles and language dropdown functionality.
